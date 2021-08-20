@@ -59,6 +59,7 @@ def make_480p():
 def detectFace(frame):
 #    global videoRecording
     global present
+    
     img = frame[84:225, 1:640]
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     # Detect faces
