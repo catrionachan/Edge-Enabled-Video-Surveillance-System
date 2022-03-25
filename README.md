@@ -7,4 +7,4 @@ The purpose of the video surviellance system is to help reduce the network strai
 
 To see more about the project visit my website here: https://usri2021catriona.wordpress.com/
 
-Awards: 1st Place Research Poster Competition
+Awards: 1st Place Western University Undergraduate Engineering Summer Research Poster Competition
