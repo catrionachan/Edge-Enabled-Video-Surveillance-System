@@ -6,3 +6,5 @@ The project was in conjunction with the USRI program at Western University. It w
 The purpose of the video surviellance system is to help reduce the network strain that is sent to the server. The files that are saved on the raspberry pi are sent through a FTP protocol to the FTP server to be accessed on the website below. 
 
 To see more about the project visit my website here: https://usri2021catriona.wordpress.com/
+
+Awards: 1st Place Research Poster Competition
